@@ -1,5 +1,5 @@
 # TP Improvement Proposals (TIPs)
-TP Improvement Proposals (TIPs) describe standards for TP, including protocol specifications and APIs. Browse all current and draft EIPs on the official EIP site.
+TP Improvement Proposals (TIPs) describe standards for TP, including protocol specifications and APIs. Browse all current and draft TIPs on the official TIP site.
 
 # Project Goal
 The TP Improvement Proposals repository exists as a place to share concrete proposals with potential users of the proposal and the Ethereum community at large.
